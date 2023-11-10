@@ -23,7 +23,7 @@ body {
 .page__header {
   padding: 24px 64px;
   display: flex;
-  /* justify-content: space-between; */
+  justify-content: space-between;
   align-items: center;
   /* background-color: #141515; */
 }
